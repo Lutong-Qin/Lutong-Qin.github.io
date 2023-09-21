@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+About me
 I hail from Lucheng City, Changzhi, Shanxi Province, China, a place steeped in rich cultural heritage and renowned mythological tales, earning it the title of 'Homeland of Chinese Mythology.' I pursued my undergraduate studies at North University of China, specializing in the fields of automatic control theory and embedded systems. In the year 2020, I successfully obtained my Bachelor's degree, establishing a robust foundation for my professional journey.
 Currently, I am pursuing a Master's degree at Nanjing Normal University, focusing my research endeavors on human behavior recognition, ubiquitous computing, and deep learning. I am privileged to be a research scholar under the guidance of Associate Professor Zhang Lei, an expert in this domain, who provides invaluable mentorship and opportunities.
 Deep learning has consistently captured my profound interest, particularly in the realms of object detection and image generation. I am driven to attain an in-depth understanding and mastery of these technologies, with the aspiration of making meaningful contributions to future research and applications.
