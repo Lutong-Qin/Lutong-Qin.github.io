@@ -9,13 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Name: Lutong Qin
-Email: 211843003@njnu.edu.cn
-Date of Birth: October 21, 1998
-Location: Nanjing, Jiangsu
-
-[GitHub Page](https://lutong-qin.github.io/)
-WeChat: bboylutong
+Name: Lutong Qin  
+Email: 211843003@njnu.edu.cn  
+Location: Nanjing, Jiangsu  
+[GitHub Page](https://github.com/Lutong-Qin)  
 
 Research Interests: Deep Learning, Computer Vision, Sensor Data Recognition
 
