@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lutong Qin"
 title_separator          : "-"
-name                     : &name "Lutong Qin"
+name                     : &name "Actions speak louder than words."
 description              : &description "Actions speak louder than words."
 url                      : https://Lutong-Qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
