@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
 
-I originate from Changzhi City, located in the culturally rich Shanxi Province, China, renowned for its deep-rooted cultural heritage and legendary tales, earning it the esteemed title of the 'Homeland of Chinese Mythology.' My academic journey commenced at the North University of China, where I pursued my undergraduate studies, specializing in the fields of automatic control theory and embedded systems. In the year 2020, I successfully earned my Bachelor's degree, establishing a sturdy foundation for my professional pursuits. Presently, I am dedicated to pursuing a Master's degree at Nanjing Normal University, where my research endeavors are centered on human behavior recognition, ubiquitous computing, and deep learning. I am privileged to be a research scholar under the guidance of Associate Professor Zhang Lei, an esteemed expert in this domain, whose mentorship and opportunities have been invaluable to my growth. Deep learning has consistently piqued my profound interest, particularly within the domains of object detection and image generation. I am driven by the aspiration of attaining a profound understanding and mastery of these technologies, with the ultimate goal of making substantial contributions to future research and practical applications. Additionally, I am an ardent enthusiast of physical activities, with a particular passion for street dancing. Engaging in sports not only promotes physical well-being but also fosters essential qualities such as teamwork and creativity, which hold equal importance within the spheres of research and academia.
+I come from Changzhi City in Shanxi Province, China, known for its rich cultural heritage and legendary tales. I began my academic journey at North University of China, specializing in automatic control theory and embedded systems. In 2020, I earned my Bachelor's degree, laying the foundation for my career. Now, I'm pursuing a Master's degree at Nanjing Normal University, focusing on human behavior recognition, ubiquitous computing, and deep learning. I'm fortunate to be a research scholar under Associate Professor Zhang Lei, an expert in this field. I'm passionate about deep learning, particularly in object detection and image generation, aiming to contribute to future research and practical applications. Besides academics, I'm enthusiastic about street dancing and believe it fosters teamwork and creativity, valuable qualities in both sports and academia.
+
+## Research Interests
+
+- Computer Vision
+- Human Activity Recognition
 
 ## Publications
 
