@@ -9,57 +9,69 @@ redirect_from:
 
 {% include base_path %}
 
-计算机视觉、人体活动识别
+Name: Lutong Qin
+Email: 211843003@njnu.edu.cn
+Date of Birth: October 21, 1998
+Location: Nanjing, Jiangsu
 
-教育经历
+[GitHub Page](https://lutong-qin.github.io/)
+WeChat: bboylutong
+
+Research Interests: Deep Learning, Computer Vision, Sensor Data Recognition
+
+Education
 ======
-* 南京师范大学 (211工程院校)
-  电子信息 (控制工程) - 硕士
-  电气与自动化工程学院
-  主修：机器学习，深度学习等
+* Master's in Electronic Information (Control Engineering)
+  - Nanjing Normal University (A 211 Project University)
+  - School of Electrical and Automation Engineering
+  - Specialization: Machine Learning, Deep Learning
+  
+* Bachelor's in Automation
+  - North University of China
+  - College of Electrical and Control Engineering
+  - Specialization: Automatic Control Theory, Microcontroller Principles, and Applications
 
-* 中北大学
-  自动化 - 本科
-  电气与控制工程学院
-  主修：自动控制原理，单片机原理及应用等
-
-科研成果
+Research Achievements
 ======
-* 论文：
-  - Lutong Qin, Lei Zhang, Chaoda Song, et al. Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations [J]. IEEE Transactions on Mobile Computing. (IEEE移动计算领域顶级期刊，中国计算机协会推荐的计算机网络领域三大核心期刊之一，CCF-A类期刊，IF: 7.9)
-    介绍：本文提出了一个高效的活动识别框架，以解决深度神经网络在不同计算资源限制下的挑战。传统的静态神经网络难以适应实时计算资源变化，尤其在移动设备上。我们的方法强调联合考虑网络宽度和输入分辨率，以捕获多尺度特征表示。相比之下，以前的方法要么忽略这些因素，要么单独调整它们。我们的互学习框架在运行时权衡了准确性和速度，优于单独调整宽度或分辨率。通过在不同任务上进行互学习，我们的框架可以在不重新训练或加载模型的情况下适应不同移动设备。此外，这一框架不依赖于特定网络设计，可用于各种情况。研究结果表明，我们的方法不仅可以提供适应计算资源变化的神经网络，还可以提高单一模型的性能，是一个实用的解决方案。
+**Papers:**
+* **Lutong Qin**, Lei Zhang, Chaoda Song, et al. "Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations" in IEEE Transactions on Mobile Computing. (Top-tier journal in the field of mobile computing, one of the three core journals recommended by the China Computer Federation in the field of computer networks, IF: 7.9)
+    - Description: This paper proposes an efficient activity recognition framework to address the challenges of deep neural networks under different computational resource constraints. Traditional static neural networks struggle to adapt to real-time changes in computing resources, especially on mobile devices. Our approach emphasizes jointly considering network width and input resolution to capture multi-scale feature representations. In contrast, previous methods either ignore these factors or adjust them separately. Our mutual learning framework balances accuracy and speed at runtime, outperforming individual adjustments to width or resolution. By mutual learning on different tasks, our framework can adapt to different mobile devices without retraining or loading models. Furthermore, this framework is not dependent on specific network designs and can be applied in various scenarios. Research results demonstrate that our approach not only provides neural networks that adapt to changes in computational resources but also improves the performance of a single model, making it a practical solution.
 
-* 计算机软件著作权：
-  - **秦卢通**，张雷，王帅帅，程东洲，熊婷. 基于共同学习框架的自适应活动识别系统
-  - **秦卢通**，张雷，王帅帅，程东洲，杨光宇，熊婷. 基于动态高斯核的人体姿态识别系统
-  - **秦卢通**，张雷，熊婷，王帅帅，程东洲，杨光宇. 基于动态路径计算的人体姿态识别系统
+**Computer Software Copyrights:**
+* **Lutong Qin**, Lei Zhang, Wang Shuaishuai, Cheng Dongzhou, Xiong Ting. Adaptive Activity Recognition System Based on Mutual Learning Framework.
+* **Lutong Qin**, Lei Zhang, Wang Shuaishuai, Cheng Dongzhou, Yang Guangyu, Xiong Ting. Human Pose Recognition System Based on Dynamic Gaussian Kernel.
+* **Lutong Qin**, Lei Zhang, Xiong Ting, Wang Shuaishuai, Cheng Dongzhou, Yang Guangyu. Human Pose Recognition System Based on Dynamic Path Calculation.
 
-实习经历
+Internship Experience
 ======
-* 江苏伏泰信息科技有限公司
-  2022年10月 - 2023年1月
-  横向项目：基于神经网络的人脸ID和垃圾分类投放智能化辅助识别系统
+* Jiangsu Fute Information Technology Co., Ltd.
+  - October 2022 - January 2023
+  - Cross-project: Intelligent Face ID and Smart Garbage Classification Assistance Recognition System based on Neural Networks
 
-专业技能
+Skills
 ======
-* 能够掌握自动化和计算机专业知识，熟练掌握Python语言，PyTorch深度学习框架，熟练使用NumPy、Pandas等工具
-* 正在提升学习的数学及算法基础：数据结构、微积分、概率论与数理统计、矩阵论、机器学习（周志华）、深度学习（cs231n）
-* 掌握ChatGPT和Claude的基本使用
-* 掌握Linux操作系统的基本指令
+* Proficient in automation and computer-related knowledge.
+* Skilled in Python programming language, PyTorch deep learning framework, and tools like NumPy and Pandas.
+* Ongoing improvement of mathematical and algorithmic foundations, including data structures, calculus, probability theory and mathematical statistics, matrix theory, machine learning (by Christopher Bishop), and deep learning (cs231n).
+* Proficient in using ChatGPT and Claude.
+* Proficient in basic Linux operating system commands.
 
-荣誉奖项
+Honors and Awards
 ======
-* 2021年研究生二等奖学金
-* 2022年研究生三等奖学金
-* 2019年“山西省互联网+大学生创新创业大赛”银奖
+* Graduate Second-Class Scholarship, 2021
+* Graduate Third-Class Scholarship, 2022
+* Silver Prize in the "Shanxi Province Internet + College Student Innovation and Entrepreneurship Competition," 2019
 
-证书
+Certifications
 ======
-* GET4、全国计算机二级、普通话二级甲等
+* GET4
+* National Computer Level 2
+* Mandarin Level 2 (A)
 
-个人总结
+Summary
 ======
-* 硕士期间在导师的指导下主要从事基于可穿戴设备的人体活动识别算法研究，具有英文论文的阅读和写作能力，在读期间能够积极跟踪CVPR、ICCV、NIPS等顶会论文，并认真分析论文代码。熟练掌握论文绘图技巧和LaTeX论文排版技巧。
-* 目前主要研究动态自适应卷积神经网络，使模型更高效地部署在移动端，以应对计算预算实时变化的移动设备。熟悉SVM、DNN、CNN、Transformer、RNN、LSTM等模型算法。
-* 具备良好的沟通能力，有较强的文字综合和表达能力。
-* 具有团队协作精神，能够承受工作压力，有较高的执行力。
+* During my master's program, I conducted research on wearable device-based human activity recognition algorithms under the guidance of my advisor. I have the ability to read and write English papers and actively keep up with top conferences such as CVPR, ICCV, NIPS, and carefully analyze paper code. I am skilled in paper drawing techniques and LaTeX paper formatting skills.
+* Currently, I am researching dynamic adaptive convolutional neural networks to enable more efficient deployment on mobile devices to cope with real-time changes in computing budgets. I am familiar with models such as SVM, DNN, CNN, Transformer, RNN, LSTM, and more.
+* I have strong communication skills and excellent written and verbal expression abilities.
+* I have a collaborative spirit, can withstand work pressure, and have a high level of execution.
+
