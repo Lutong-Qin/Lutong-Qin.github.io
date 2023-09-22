@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lutong Qin"
+title                    : "Actions speak louder than words."
 title_separator          : "-"
-name                     : &name "Actions speak louder than words."
+name                     : &name "Lutong Qin"
 description              : &description "Actions speak louder than words."
 url                      : https://Lutong-Qin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
