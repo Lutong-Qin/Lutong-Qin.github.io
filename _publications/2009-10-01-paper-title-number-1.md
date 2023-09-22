@@ -11,6 +11,6 @@ citation: 'Lutong Qin, Lei Zhang, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Ha
 
 This paper presents research on dynamic activity inference.
 
-[Download paper here](http://link-to-your-paper.com)
+#[Download paper here](http://link-to-your-paper.com)
 
 Recommended citation: Lutong Qin, Lei Zhang, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song, Lutong Qin. (2023). "Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations." <i>IEEE Transactions on Mobile Computing</i>.
