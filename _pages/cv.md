@@ -19,7 +19,7 @@ Research Interests: Deep Learning, Computer Vision, Sensor Data Recognition
 Education
 ======
 * Master's in Electronic Information (Control Engineering)
-  - Nanjing Normal University (A 211 Project University)
+  - Nanjing Normal University (211 Project University)
   - School of Electrical and Automation Engineering
   - Specialization: Machine Learning, Deep Learning
   
