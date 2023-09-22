@@ -14,5 +14,5 @@ I originate from Changzhi City, located in the culturally rich Shanxi Province, 
 
 ## Publications
 
-- **Lutong Qin**, Lei Zhang (example@email.com), Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song. "Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations." *IEEE Transactions on Mobile Computing (CCF Rank A, Impact Factor: 7.9)*, 2023.
+- **Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song. "Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations." *IEEE Transactions on Mobile Computing (CCF Rank A, Impact Factor: 7.9)*, 2023.
 
