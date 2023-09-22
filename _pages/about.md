@@ -20,7 +20,8 @@ I come from Changzhi City in Shanxi Province, China, known for its rich cultural
 
 - **"Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations"** (Staue: Major)  
 **Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song, Lutong Qin  
-IEEE Transactions on Mobile Computing (CCF Rank A, Impact Factor: 7.9), 2023.  
+IEEE Transactions on Mobile Computing (CCF Rank A, Impact Factor: 7.9), 2023.
+![pic](paper_pic1.png)
 [PDF]() [Bib]() [Code](https://github.com/Lutong-Qin/Adaptive_har)  
 
 ## Contact
