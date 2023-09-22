@@ -21,7 +21,7 @@ IEEE Transactions on Mobile Computing (CCF Rank A, Impact Factor: 7.9), 2023.
 
 ## Contact
 
-**Institution**: School of Electrical and Automation Engineering, Nanjing Normal University, China
+**Institution**: School of Electrical and Automation Engineering, Nanjing Normal University, China  
 **E-mail**: [LutongQin](mailto:211843003@njnu.edu.cn)
 
 
