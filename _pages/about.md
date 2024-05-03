@@ -18,7 +18,7 @@ I come from Changzhi City in Shanxi Province, China, known for its rich cultural
 
 ## Publications
 
-- **"Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations"** (Status: Major Review.)
+- **"Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations"** (Status: Major Review.)  
   Authors: **Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song, Lutong Qin  
 <img src="../images/paper_pic1.png" alt="pic" width="600">  
 [PDF]() [Bib]() [Code](https://github.com/Lutong-Qin/Adaptive_har)
