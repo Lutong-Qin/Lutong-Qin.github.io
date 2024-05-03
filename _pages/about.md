@@ -24,17 +24,13 @@ Major Review.
 <img src="../images/paper_pic1.png" alt="pic" width="600">  
 [PDF]() [Bib]() [Code](https://github.com/Lutong-Qin/Adaptive_har)
 
-- **"MaskCAE: Masked Convolutional AutoEncoder for Self-Supervised Human Activity Recognition"**  
-**Dongzhou Cheng**, Lei Zhang, **Lutong Qin**, et al.  
-IEEE Journal of Biomedical and Health Informatics.  
-*IEEE Journal of Biomedical and Health Informatics, a CCF-C category journal, SCI indexed, IF: 7.7*  
-Status: Accepted  
+- **"MaskCAE: Masked Convolutional AutoEncoder for Self-Supervised Human Activity Recognition"** (Status: Published)  
+Dongzhou Cheng, Lei Zhang, **Lutong Qin**, et al.  
+IEEE Journal of Biomedical and Health Informatics. (CCF-C class journal, TOP journal in Zone 1 of Chinese Academy of Sciences, IF: 7.7)
 
-- **"An Effective Large Kernel Convolutional Neural Networks for Human Activity Recognition Using Wearables"**  
-**Minghui Yao**, Lei Zhang, Dongzhou Cheng, **Lutong Qin**, et al.  
-IEEE Sensors Journal.  
-*IEEE Sensors Journal, SCI indexed, IF: 4.3*  
-Status: Accepted  
+- **"An Effective Large Kernel Convolutional Neural Networks for Human Activity Recognition Using Wearables"** (Status: Published)  
+Minghui Yao, Lei Zhang, Dongzhou Cheng, **Lutong Qin**, et al.  
+IEEE Sensors Journal. (TOP journal in Zone 2 of Chinese Academy of Sciences, IF: 4.3)
 
 ## Contact
 
