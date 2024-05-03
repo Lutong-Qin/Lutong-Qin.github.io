@@ -32,7 +32,7 @@ Research Achievements
 ======
 **Papers:**
 * **"Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations"** (Status: Major Review.)  
-  Authors: **Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song, Lutong Qin  
+  Authors: **Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song
     - Description: This paper proposes an efficient activity recognition framework to address the challenges of deep neural networks under different computational resource constraints. Traditional static neural networks struggle to adapt to real-time changes in computing resources, especially on mobile devices. Our approach emphasizes jointly considering network width and input resolution to capture multi-scale feature representations. In contrast, previous methods either ignore these factors or adjust them separately. Our mutual learning framework balances accuracy and speed at runtime, outperforming individual adjustments to width or resolution. By mutual learning on different tasks, our framework can adapt to different mobile devices without retraining or loading models. Furthermore, this framework is not dependent on specific network designs and can be applied in various scenarios. Research results demonstrate that our approach not only provides neural networks that adapt to changes in computational resources but also improves the performance of a single model, making it a practical solution.
 
 * **"MaskCAE: Masked Convolutional AutoEncoder for Self-Supervised Human Activity Recognition"** (Status: Published)  
