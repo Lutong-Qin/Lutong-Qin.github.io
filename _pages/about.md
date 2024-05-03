@@ -27,7 +27,7 @@ I come from Changzhi City in Shanxi Province, China, known for its rich cultural
   Authors: Dongzhou Cheng, Lei Zhang, **Lutong Qin**, et al.  
   *IEEE Journal of Biomedical and Health Informatics.* (CCF-C class journal, TOP journal in Zone 1 of Chinese Academy of Sciences, IF: 7.7)
 
-- **"An Effective Large Kernel Convolutional Neural Networks for Human Activity Recognition Using Wearables"** (Status: Published)  
+- **"Revisiting Large-Kernel CNN Design via Structural Re-Parameterization for Sensor-Based Human Activity Recognition"** (Status: Published)  
   Authors: Minghui Yao, Lei Zhang, Dongzhou Cheng, **Lutong Qin**, et al.  
   *IEEE Sensors Journal.* (TOP journal in Zone 2 of Chinese Academy of Sciences, IF: 4.3)
 
