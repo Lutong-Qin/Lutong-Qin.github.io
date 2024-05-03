@@ -18,19 +18,19 @@ I come from Changzhi City in Shanxi Province, China, known for its rich cultural
 
 ## Publications
 
-- **"Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations"** (Staue: Major)  
-**Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song, Lutong Qin  
-Major Review.  
+- **"Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Mutual Learning from Various Width-Resolution Configurations"**
+  Authors: **Lutong Qin**, Lei Zhang✉, Chaoda Song, Dongzhou Cheng, Shuoyuan Wang, Hao Wu, Aiguo Song, Lutong Qin  
+  *Major Review.* 
 <img src="../images/paper_pic1.png" alt="pic" width="600">  
 [PDF]() [Bib]() [Code](https://github.com/Lutong-Qin/Adaptive_har)
 
 - **"MaskCAE: Masked Convolutional AutoEncoder for Self-Supervised Human Activity Recognition"** (Status: Published)  
-Dongzhou Cheng, Lei Zhang, **Lutong Qin**, et al.  
-IEEE Journal of Biomedical and Health Informatics. (CCF-C class journal, TOP journal in Zone 1 of Chinese Academy of Sciences, IF: 7.7)
+  Authors: Dongzhou Cheng, Lei Zhang, **Lutong Qin**, et al.  
+  *IEEE Journal of Biomedical and Health Informatics.* (CCF-C class journal, TOP journal in Zone 1 of Chinese Academy of Sciences, IF: 7.7)
 
 - **"An Effective Large Kernel Convolutional Neural Networks for Human Activity Recognition Using Wearables"** (Status: Published)  
-Minghui Yao, Lei Zhang, Dongzhou Cheng, **Lutong Qin**, et al.  
-IEEE Sensors Journal. (TOP journal in Zone 2 of Chinese Academy of Sciences, IF: 4.3)
+  Authors: Minghui Yao, Lei Zhang, Dongzhou Cheng, **Lutong Qin**, et al.  
+  *IEEE Sensors Journal.* (TOP journal in Zone 2 of Chinese Academy of Sciences, IF: 4.3)
 
 ## Contact
 
